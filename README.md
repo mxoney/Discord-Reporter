@@ -2,7 +2,7 @@
 Repeatedly reports a user on Discord.
 
 ## Information
-This tool was strictly developed to demonstrate how straightforward it can be to spam a service like Discord. "Report bots" tend to increase the chances in banning users' accounts. Please refrain from using this Discord report bot as it is, once again, developed for educational purposes only. Nevertheless, if you use this, you are doing it at your own risk. You have been warned.
+This tool was strictly developed to demonstrate how straightforward it can be to spam a service like Discord. "Report bots" tend to increase the chances in account terminations. Please refrain from using this Discord report bot as it is, once again, developed for educational purposes only. Nevertheless, if you use this, you are doing it at your own risk. You have been warned.
 
 ## Preview
 ![](https://i.imgur.com/kGwdAd9.png)<br>
@@ -11,7 +11,7 @@ This tool was strictly developed to demonstrate how straightforward it can be to
 ## Usage
 - Python 3.8 or above is required.
 - I develop for Windows machines only and do not intentionally support other operating systems.
-- If you do not already have the **requests** library installed, run setup.py — make sure PIP is added to PATH.
+- If you do not already have the **Requests** library installed, run setup.py — make sure PIP is added to PATH.
 1. Run main.py.
 2. Paste the Discord server's ID the message was posted in.
 3. Paste the channel ID.
@@ -21,4 +21,4 @@ This tool was strictly developed to demonstrate how straightforward it can be to
 7. All set!
 
 ## Legal Notice
-This is illegal if you use it without the consent of the creators — in this case, the Discord team. I am not accountable for any of your actions; this was merely a speedrun to demonstrate how report bots work. Please do not misuse this tool.
+This is illegal and against Discord's Terms of Service. I am not accountable for any of your actions; this was merely a speedrun to demonstrate how report bots work. Please do not misuse this tool.
